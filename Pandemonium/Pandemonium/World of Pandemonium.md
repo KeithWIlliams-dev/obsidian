@@ -1,1 +1,0 @@
-Related: [[Achelos]], [[The Crimson Isle]], [[Pandemonium]], [[Religion]], [[Legends]], [[Factions and Guilds]]
