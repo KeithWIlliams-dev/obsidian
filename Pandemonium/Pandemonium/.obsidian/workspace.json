@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3db5ce885c769a59",
+        "id": "0dd6d7c55039046b",
         "type": "tabs",
         "children": [
           {
-            "id": "d4d429b53fbb8065",
+            "id": "84824e0dfc710043",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Test.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,11 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4d429b53fbb8065",
+  "active": "84824e0dfc710043",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Test.md",
-    "Women.md",
-    "League Players.md"
+    "Pandemonium/The Golden Circle/The Golden Circle.md",
+    "Pandemonium/The Free City of Qazvin/The Free City of Qazvin.md",
+    "Pandemonium/The Colony/The Colony.md",
+    "Pandemonium/The Citadel/The Citadel.md",
+    "Pandemonium/The Blue/The Blue.md",
+    "Pandemonium/Ramilowah/Ramilowah.md",
+    "Pandemonium/Ozlotecha/Ozlotecha.md",
+    "Pandemonium/Mor Saleem/Mor Saleem.md",
+    "Pandemonium/Kersai/Kersai.md",
+    "Pandemonium/Embaxio/Embaxio.md"
   ]
 }
