@@ -8,19 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "99eed140697cb948",
+            "id": "d4d429b53fbb8065",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "5c40b082ec4e1b24",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Test.md"
+              }
             }
           }
         ]
@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63fa2196d6161348",
+  "active": "d4d429b53fbb8065",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Test.md",
     "Women.md",
     "League Players.md"
   ]
