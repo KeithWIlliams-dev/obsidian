@@ -1,3 +1,3 @@
 Related: [[Religion]], [[Church of Bahaal]]
 
-Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Basillica, Laodicea
+Ephesus, Symra, Pergamum, Thyatira, Konsevenna, Basillica, Laodicea

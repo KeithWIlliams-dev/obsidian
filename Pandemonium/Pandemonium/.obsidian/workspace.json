@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0dd6d7c55039046b",
+        "id": "b80e2567d62ab54d",
         "type": "tabs",
         "children": [
           {
-            "id": "84824e0dfc710043",
+            "id": "71350fe86efc9dfb",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -138,17 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84824e0dfc710043",
+  "active": "71350fe86efc9dfb",
   "lastOpenFiles": [
-    "Pandemonium/Pandemonium.md",
-    "World Building/Religion/Religion.md",
-    "World Building/Legends/Legends.md",
-    "World Building/Factions and Guilds/Factions and Guilds.md",
-    "The Crimson Isle/The Crimson Isle.md",
-    "Achelos/Achelos.md",
-    "The World of Pandemonium.md",
-    "Pandemonium/The Golden Circle/The Golden Circle.md",
-    "Pandemonium/The Free City of Qazvin/The Free City of Qazvin.md",
-    "Pandemonium/The Colony/The Colony.md"
+    "Achelos/Frontier of Firth/Firth.md",
+    "Achelos/Frontier of Firth/Trouble in Firth.md",
+    "Sinoth the Blood Sucker.md",
+    "Dirtlegs Jorgil.md",
+    "World Building/Untitled.md",
+    "Images/Leviathan.webp",
+    "World Building/Religion/Lua.md",
+    "Images/Azuli Goblin.png",
+    "Belian Calendar.md",
+    "Images/Firth.png"
   ]
 }

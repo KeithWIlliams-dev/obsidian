@@ -1,0 +1,1 @@
+Related: [[Hierarchy of the Bahaal Order]]
