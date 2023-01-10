@@ -101,7 +101,7 @@
       "supportTimelines": false,
       "syncTimelines": true,
       "timelineTag": "#timeline",
-      "displayWeeks": true
+      "displayWeeks": false
     }
   ],
   "configDirectory": null,
