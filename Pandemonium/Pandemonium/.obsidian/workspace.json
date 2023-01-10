@@ -11,11 +11,10 @@
             "id": "71350fe86efc9dfb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Sinoth the Blood Sucker.md",
-                "mode": "source",
-                "source": false
+                "file": "Pandemonium/Pandemonium/Sinoth the Blood Sucker.md",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sinoth the Blood Sucker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sinoth the Blood Sucker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sinoth the Blood Sucker.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,15 +151,15 @@
   },
   "active": "71350fe86efc9dfb",
   "lastOpenFiles": [
+    "2023-01-07.md",
+    "Sinoth the Blood Sucker.md",
     "Achelos/Frontier of Firth/Trouble in Firth.md",
     "Achelos/Frontier of Firth/Firth.md",
-    "Sinoth the Blood Sucker.md",
     "Dirtlegs Jorgil.md",
     "World Building/Untitled.md",
     "Images/Leviathan.webp",
     "World Building/Religion/Lua.md",
     "Images/Azuli Goblin.png",
-    "Belian Calendar.md",
-    "Images/Firth.png"
+    "Belian Calendar.md"
   ]
 }
