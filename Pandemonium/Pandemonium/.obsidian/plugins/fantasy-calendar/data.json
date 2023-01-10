@@ -274,7 +274,7 @@
   "currentCalendar": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
-  "defaultCalendar": null,
+  "defaultCalendar": "null",
   "eventPreview": false,
   "exit": {
     "saving": false,
