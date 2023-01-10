@@ -285,7 +285,7 @@
   "parseDates": false,
   "settingsToggleState": {
     "calendars": true,
-    "events": false,
+    "events": true,
     "advanced": true
   },
   "showIntercalary": true,

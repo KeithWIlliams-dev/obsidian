@@ -4,27 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "178b18efdad451f7",
+        "id": "87a56740e36953f7",
         "type": "tabs",
         "children": [
           {
-            "id": "0dd0de757724d6a5",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "3fe0b188e4e8c0ff",
+            "id": "283f23b99ca1666a",
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,6 +136,14 @@
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
+          },
+          {
+            "id": "602ca3ec7fd0dedc",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
@@ -164,7 +163,7 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "3fe0b188e4e8c0ff",
+  "active": "283f23b99ca1666a",
   "lastOpenFiles": [
     "Belian Calendar.md",
     "Achelos/Frontier of Firth/The Mountain.md",
