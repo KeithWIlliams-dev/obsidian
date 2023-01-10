@@ -11,12 +11,8 @@
             "id": "58b72682551c87ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Achelos/Frontier of Firth/The Mountain.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "FANTASY_CALENDAR",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Achelos/Frontier of Firth/The Mountain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Achelos/Frontier of Firth/The Mountain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Achelos/Frontier of Firth/The Mountain.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,8 +155,9 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "821b47a609f3906e",
+  "active": "58b72682551c87ac",
   "lastOpenFiles": [
+    "Achelos/Frontier of Firth/The Mountain.md",
     "2023-01-07.md",
     "Achelos/Frontier of Firth/Firth.md",
     "Achelos/Heilung.md",

@@ -1,11 +1,245 @@
 {
   "addToDefaultIfMissing": true,
-  "calendars": [],
+  "calendars": [
+    {
+      "name": "Belian Calendar",
+      "description": "A calendar for the Church of Bahaal",
+      "autoParse": false,
+      "path": "/",
+      "supportTimelines": false,
+      "syncTimelines": false,
+      "timelineTag": "#timeline",
+      "static": {
+        "displayDayNumber": true,
+        "incrementDay": false,
+        "displayMoons": true,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Eneas",
+            "id": "ID_19ea684b4a08"
+          },
+          {
+            "type": "day",
+            "name": "Dyos",
+            "id": "ID_2928b90ab949"
+          },
+          {
+            "type": "day",
+            "name": "Trias",
+            "id": "ID_0ad9a8f9e95b"
+          },
+          {
+            "type": "day",
+            "name": "Tesseros",
+            "id": "ID_195a4b290bc9"
+          },
+          {
+            "type": "day",
+            "name": "Geneas",
+            "id": "ID_abe8c89b0999"
+          },
+          {
+            "type": "day",
+            "name": "Friday",
+            "id": "ID_2b5b8a79fa4a"
+          },
+          {
+            "type": "day",
+            "name": "Saturday",
+            "id": "ID_1a78cb79c8cb"
+          }
+        ],
+        "months": [
+          {
+            "name": "Iro",
+            "type": "month",
+            "length": 90,
+            "id": "ID_e9997a780b3a"
+          },
+          {
+            "name": "Briso",
+            "type": "month",
+            "length": 90,
+            "id": "ID_b8c9ebeb0b89"
+          },
+          {
+            "name": "Orlain",
+            "type": "month",
+            "length": 90,
+            "id": "ID_b83bda2b9be8"
+          },
+          {
+            "name": "Vomi",
+            "type": "month",
+            "length": 90,
+            "id": "ID_29baea7b28ab"
+          },
+          {
+            "name": "May",
+            "type": "month",
+            "length": 1,
+            "id": "ID_6a3899fad909"
+          },
+          {
+            "name": "June",
+            "type": "month",
+            "length": 1,
+            "id": "ID_384aeb1afa8a"
+          },
+          {
+            "name": "July",
+            "type": "month",
+            "length": 1,
+            "id": "ID_48b8cba87b8a"
+          },
+          {
+            "name": "August",
+            "type": "month",
+            "length": 1,
+            "id": "ID_fa0b1a6bab8a"
+          },
+          {
+            "name": "September",
+            "type": "month",
+            "length": 1,
+            "id": "ID_da880b8af849"
+          },
+          {
+            "name": "October",
+            "type": "month",
+            "length": 1,
+            "id": "ID_babba8186968"
+          },
+          {
+            "name": "November",
+            "type": "month",
+            "length": 1,
+            "id": "ID_da582bfaf9b9"
+          },
+          {
+            "name": "December",
+            "type": "month",
+            "length": 1,
+            "id": "ID_ba1bab4a3a28"
+          },
+          {
+            "type": "month",
+            "name": "test",
+            "length": 1,
+            "id": "ID_9b49599acb89"
+          }
+        ],
+        "moons": [
+          {
+            "name": "Moon",
+            "cycle": 29,
+            "offset": 0,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000000",
+            "id": "ID_a9ab186b1819"
+          }
+        ],
+        "leapDays": [
+          {
+            "name": "Leap Day",
+            "type": "leapday",
+            "interval": [
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 4
+              },
+              {
+                "ignore": false,
+                "exclusive": true,
+                "interval": 100
+              },
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 400
+              }
+            ],
+            "offset": 0,
+            "timespan": 1,
+            "intercalary": false,
+            "id": "ID_b91ad86a887a"
+          }
+        ],
+        "eras": [
+          {
+            "name": "Before Christ",
+            "format": "Year {{abs_year}} - {{era_name}}",
+            "start": {
+              "year": -1,
+              "month": 0,
+              "day": 31
+            },
+            "id": "ID_9a2978c92baa",
+            "restart": false,
+            "endsYear": false,
+            "event": false
+          },
+          {
+            "name": "Anno Domini",
+            "format": "Year {{year}} - {{era_name}}",
+            "start": {
+              "year": 1,
+              "month": 0,
+              "day": 1
+            },
+            "id": "ID_a8db38899a2b",
+            "restart": false,
+            "endsYear": false,
+            "event": false
+          }
+        ],
+        "offset": 0
+      },
+      "current": {
+        "year": 193,
+        "month": 1,
+        "day": 84
+      },
+      "events": [],
+      "id": "ID_58ab9a3a0bf9",
+      "categories": [
+        {
+          "name": "Natural Events",
+          "id": "natural-events",
+          "color": "#2E7D32"
+        },
+        {
+          "name": "Bahaal Holidays",
+          "id": "christian-holidays",
+          "color": "#9b2c2c"
+        },
+        {
+          "name": "Secular Holidays",
+          "id": "secular-holidays",
+          "color": "#0D47A1"
+        },
+        {
+          "name": "Historical Events",
+          "id": "historical-events",
+          "color": "#455A64"
+        },
+        {
+          "name": "Miscellaneous Events",
+          "id": "miscellaneous-events",
+          "color": "#0288D1"
+        }
+      ]
+    }
+  ],
   "configDirectory": null,
   "currentCalendar": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
-  "defaultCalendar": null,
+  "defaultCalendar": "ID_58ab9a3a0bf9",
   "eventPreview": false,
   "exit": {
     "saving": false,
@@ -15,8 +249,8 @@
   "eventFrontmatter": false,
   "parseDates": false,
   "settingsToggleState": {
-    "calendars": false,
-    "events": false,
+    "calendars": true,
+    "events": true,
     "advanced": true
   },
   "showIntercalary": false,
