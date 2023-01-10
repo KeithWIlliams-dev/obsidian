@@ -1,27 +1,22 @@
 {
   "main": {
-    "id": "f8d0b0bc7daf6a6e",
+    "id": "c19569f137d07606",
     "type": "split",
     "children": [
       {
-        "id": "d996d062f46fff46",
+        "id": "b80e2567d62ab54d",
         "type": "tabs",
         "children": [
           {
-            "id": "58b72682551c87ac",
+            "id": "71350fe86efc9dfb",
             "type": "leaf",
             "state": {
-<<<<<<< HEAD
               "type": "markdown",
               "state": {
                 "file": "Sinoth the Blood Sucker.md",
                 "mode": "source",
                 "source": false
               }
-=======
-              "type": "empty",
-              "state": {}
->>>>>>> 1153db0dbf1945268e69c7291a406e3be1db6c82
             }
           }
         ]
@@ -30,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4c33572bf4b004c1",
+    "id": "758a0ac3aa3ac663",
     "type": "split",
     "children": [
       {
-        "id": "054d4aa33d3fa6aa",
+        "id": "602d76922f8d68b2",
         "type": "tabs",
         "children": [
           {
-            "id": "30c5cd19027a8b2e",
+            "id": "63fa2196d6161348",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +43,7 @@
             }
           },
           {
-            "id": "2da3a37ce25427c8",
+            "id": "3f362bdb36ab9236",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +58,7 @@
             }
           },
           {
-            "id": "25f05a9e193857a2",
+            "id": "b7a19054b7cdf99d",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -77,15 +72,15 @@
     "width": 300
   },
   "right": {
-    "id": "e34e22f1ff91efb6",
+    "id": "cdfb9c264e3371f9",
     "type": "split",
     "children": [
       {
-        "id": "c03ae18e61a70804",
+        "id": "63bfbd4b1de87575",
         "type": "tabs",
         "children": [
           {
-            "id": "79c0d324bc7949f7",
+            "id": "4300aa3485e9f9d0",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -102,7 +97,7 @@
             }
           },
           {
-            "id": "38fe1dc504109d53",
+            "id": "a605992302192fd2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -114,7 +109,7 @@
             }
           },
           {
-            "id": "48acd1ec44740dba",
+            "id": "1804d24ce7af2107",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -125,7 +120,7 @@
             }
           },
           {
-            "id": "8c45146d3e342a5b",
+            "id": "733aaf32ff099191",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -133,13 +128,21 @@
                 "file": "Sinoth the Blood Sucker.md"
               }
             }
+          },
+          {
+            "id": "b966cb73b4408035",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,19 +154,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58b72682551c87ac",
+  "active": "71350fe86efc9dfb",
   "lastOpenFiles": [
-<<<<<<< HEAD
     "Achelos/Frontier of Firth/Trouble in Firth.md",
     "Achelos/Frontier of Firth/Firth.md",
-=======
-    "2023-01-07.md",
-    "Achelos/Frontier of Firth/Firth.md",
-    "Achelos/Heilung.md",
->>>>>>> 1153db0dbf1945268e69c7291a406e3be1db6c82
     "Sinoth the Blood Sucker.md",
-    "Achelos/Frontier of Firth/Trouble in Firth.md",
-    "Test.md",
-    "JFBWK.md"
+    "Dirtlegs Jorgil.md",
+    "World Building/Untitled.md",
+    "Images/Leviathan.webp",
+    "World Building/Religion/Lua.md",
+    "Images/Azuli Goblin.png",
+    "Belian Calendar.md",
+    "Images/Firth.png"
   ]
 }
