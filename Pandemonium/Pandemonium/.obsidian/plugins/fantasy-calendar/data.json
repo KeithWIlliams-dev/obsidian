@@ -102,6 +102,58 @@
       "syncTimelines": true,
       "timelineTag": "#timeline",
       "displayWeeks": false
+    },
+    {
+      "name": "Celestial Calendar",
+      "description": "Calendar created after the calamity",
+      "id": null,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Dei",
+            "id": "ID_9a58ca487a1b"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Selene",
+            "length": 29,
+            "id": "ID_68c9e9fb39c9"
+          }
+        ],
+        "moons": [
+          {
+            "name": "Moon",
+            "cycle": 29,
+            "offset": 0,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000",
+            "id": "ID_49893b9a2b8a"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": true,
+        "leapDays": [],
+        "eras": [],
+        "useCustomYears": false
+      },
+      "current": {
+        "year": 1,
+        "month": 0,
+        "day": 1
+      },
+      "events": [],
+      "categories": [],
+      "autoParse": false,
+      "path": "/",
+      "supportTimelines": false,
+      "syncTimelines": true,
+      "timelineTag": "#timeline"
     }
   ],
   "configDirectory": null,
