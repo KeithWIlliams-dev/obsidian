@@ -1,6 +1,109 @@
 {
   "addToDefaultIfMissing": true,
-  "calendars": [],
+  "calendars": [
+    {
+      "name": "Belian Calendar",
+      "description": "Calendar used by Church of Bahaal",
+      "id": null,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Eneas",
+            "id": "ID_0a3b7be8289a"
+          },
+          {
+            "type": "day",
+            "name": "Dyos",
+            "id": "ID_380a6959e85b"
+          },
+          {
+            "type": "day",
+            "name": "Trias",
+            "id": "ID_5968ea487b8b"
+          },
+          {
+            "type": "day",
+            "name": "Tesseros",
+            "id": "ID_68596959ebd9"
+          },
+          {
+            "type": "day",
+            "name": "Geneas",
+            "id": "ID_2b295aca9a1a"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Iro",
+            "length": 90,
+            "id": "ID_d9f8da78b88b"
+          },
+          {
+            "type": "month",
+            "name": "Briso",
+            "length": 90,
+            "id": "ID_191a58686ada"
+          },
+          {
+            "type": "month",
+            "name": "Orlain",
+            "length": 90,
+            "id": "ID_49daeb687b09"
+          },
+          {
+            "type": "month",
+            "name": "Vomi",
+            "length": 90,
+            "id": "ID_f9498a79aaa8"
+          }
+        ],
+        "moons": [
+          {
+            "name": "Moon",
+            "cycle": 29,
+            "offset": 0,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000",
+            "id": "ID_f8184a2879b8"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": true,
+        "leapDays": [],
+        "eras": [],
+        "useCustomYears": false
+      },
+      "current": {
+        "year": 193,
+        "month": 1,
+        "day": 84
+      },
+      "events": [],
+      "categories": [
+        {
+          "id": "ID_ea0b98286aa8",
+          "color": "#57db8a",
+          "name": "Natural Events"
+        },
+        {
+          "id": "ID_89b8897b68ea",
+          "color": "#70cad1",
+          "name": "Bahaal Holidays"
+        }
+      ],
+      "autoParse": false,
+      "path": "/",
+      "supportTimelines": false,
+      "syncTimelines": true,
+      "timelineTag": "#timeline",
+      "displayWeeks": true
+    }
+  ],
   "configDirectory": null,
   "currentCalendar": null,
   "dailyNotes": false,
@@ -15,7 +118,7 @@
   "eventFrontmatter": false,
   "parseDates": false,
   "settingsToggleState": {
-    "calendars": false,
+    "calendars": true,
     "events": false,
     "advanced": true
   },
