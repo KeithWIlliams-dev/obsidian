@@ -14,8 +14,17 @@
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
+          },
+          {
+            "id": "3fe0b188e4e8c0ff",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +164,7 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "0dd0de757724d6a5",
+  "active": "3fe0b188e4e8c0ff",
   "lastOpenFiles": [
     "Belian Calendar.md",
     "Achelos/Frontier of Firth/The Mountain.md",
