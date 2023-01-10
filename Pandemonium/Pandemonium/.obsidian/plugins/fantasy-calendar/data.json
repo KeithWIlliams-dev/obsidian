@@ -274,7 +274,7 @@
   "currentCalendar": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
-  "defaultCalendar": "null",
+  "defaultCalendar": null,
   "eventPreview": false,
   "exit": {
     "saving": false,
@@ -288,7 +288,7 @@
     "events": false,
     "advanced": true
   },
-  "showIntercalary": false,
+  "showIntercalary": true,
   "version": {
     "major": null,
     "minor": null,
