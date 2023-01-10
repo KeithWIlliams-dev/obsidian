@@ -1,17 +1,17 @@
 {
   "main": {
-    "id": "c19569f137d07606",
+    "id": "f8d0b0bc7daf6a6e",
     "type": "split",
     "children": [
       {
-        "id": "b80e2567d62ab54d",
+        "id": "d996d062f46fff46",
         "type": "tabs",
         "children": [
           {
-            "id": "71350fe86efc9dfb",
+            "id": "58b72682551c87ac",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "758a0ac3aa3ac663",
+    "id": "4c33572bf4b004c1",
     "type": "split",
     "children": [
       {
-        "id": "602d76922f8d68b2",
+        "id": "054d4aa33d3fa6aa",
         "type": "tabs",
         "children": [
           {
-            "id": "63fa2196d6161348",
+            "id": "30c5cd19027a8b2e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "3f362bdb36ab9236",
+            "id": "2da3a37ce25427c8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "b7a19054b7cdf99d",
+            "id": "25f05a9e193857a2",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -68,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "cdfb9c264e3371f9",
+    "id": "e34e22f1ff91efb6",
     "type": "split",
     "children": [
       {
-        "id": "63bfbd4b1de87575",
+        "id": "c03ae18e61a70804",
         "type": "tabs",
         "children": [
           {
-            "id": "4300aa3485e9f9d0",
+            "id": "79c0d324bc7949f7",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "a605992302192fd2",
+            "id": "38fe1dc504109d53",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "1804d24ce7af2107",
+            "id": "48acd1ec44740dba",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,7 +114,7 @@
             }
           },
           {
-            "id": "733aaf32ff099191",
+            "id": "8c45146d3e342a5b",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -138,17 +138,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71350fe86efc9dfb",
+  "active": "58b72682551c87ac",
   "lastOpenFiles": [
+    "2023-01-07.md",
     "Achelos/Frontier of Firth/Firth.md",
-    "Achelos/Frontier of Firth/Trouble in Firth.md",
+    "Achelos/Heilung.md",
     "Sinoth the Blood Sucker.md",
-    "Dirtlegs Jorgil.md",
-    "World Building/Untitled.md",
-    "Images/Leviathan.webp",
-    "World Building/Religion/Lua.md",
-    "Images/Azuli Goblin.png",
-    "Belian Calendar.md",
-    "Images/Firth.png"
+    "Achelos/Frontier of Firth/Trouble in Firth.md",
+    "Test.md",
+    "JFBWK.md"
   ]
 }
