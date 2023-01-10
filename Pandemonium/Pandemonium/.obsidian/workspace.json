@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b80e2567d62ab54d",
+        "id": "13e6fdb591c29960",
         "type": "tabs",
         "children": [
           {
-            "id": "71350fe86efc9dfb",
+            "id": "3c08396ff37b6ce9",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Pandemonium/Pandemonium/Sinoth the Blood Sucker.md",
-                "staged": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -149,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71350fe86efc9dfb",
+  "active": "3c08396ff37b6ce9",
   "lastOpenFiles": [
     "2023-01-07.md",
     "Sinoth the Blood Sucker.md",
