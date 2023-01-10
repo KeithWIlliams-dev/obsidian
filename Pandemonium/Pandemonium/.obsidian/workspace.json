@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "13e6fdb591c29960",
+        "id": "43b49917a98dc989",
         "type": "tabs",
         "children": [
           {
-            "id": "3c08396ff37b6ce9",
+            "id": "6e1b235cf221f4a0",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c08396ff37b6ce9",
+  "active": "6e1b235cf221f4a0",
   "lastOpenFiles": [
     "2023-01-07.md",
     "Sinoth the Blood Sucker.md",
